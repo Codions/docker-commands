@@ -1,5 +1,5 @@
 # Docker Commands
-Este conjunto de scripts permite que você utilize atalhos para substituir os comandos no terminal como o `php` e `node` utilizando uma versões baseadas em containers. O único objetivo é simplificar a execução de tasks como [composer](https://getcomposer.org), [npm](https://www.npmjs.com), entre outras ou simplismente executar algum arquivo `php` ou `js` pelo terminal sem a necessidade de entrar nos containers em execução todas as vezes.
+Este conjunto de scripts permite que você utilize atalhos para substituir os comandos no terminal como o `php` e `node` utilizando versões baseadas em containers. O único objetivo é simplificar a execução de tasks como [composer](https://getcomposer.org), [npm](https://www.npmjs.com), entre outras ou simplismente executar algum arquivo `php` ou `js` pelo terminal sem a necessidade de entrar nos containers em execução todas as vezes.
 
 ## Importante
 Este projeto possui partes do repositório [codecasts/ambientum](https://github.com/codecasts/ambientum)
@@ -9,9 +9,6 @@ Este projeto possui partes do repositório [codecasts/ambientum](https://github.
 | ------ | ------- | --------------------------------------------------------- | ---- |
 | p      | php     | [codions/php](https://hub.docker.com/r/codions/php)       | 7.1  |
 | n      | node    | [codions/nodejs](https://hub.docker.com/r/codions/nodejs) | 9    |
-
-### Substituindo comandos locais:
-Há um conjunto de atalhos que podem ajudar com essa tarefa, mas para isso será necessário fazer a instalação
 
 #### Instalação:
 ```
