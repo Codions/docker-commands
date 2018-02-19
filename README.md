@@ -5,10 +5,10 @@ Este conjunto de scripts permite que você utilize atalhos para substituir os co
 Este projeto possui partes do repositório [codecasts/ambientum](https://github.com/codecasts/ambientum)
 
 ## Tabela de referência
-| Atalho   | Comando | Imagem utilizada | Descrição                      |
-| -------- | ------- | ---------------  | ------------------------------ |
-| p        | php     | codions/php:7.1  | PHP v7.1 para linha de comando |
-| n        | node    | codions/node:9   | Node.js v9.x                   |
+| Atalho | Comando | Imagem utilizada                                          | Tag  |
+| ------ | ------- | --------------------------------------------------------- | ---- |
+| p      | php     | [codions/php](https://hub.docker.com/r/codions/php)       | 7.1  |
+| n      | node    | [codions/nodejs](https://hub.docker.com/r/codions/nodejs) | 9    |
 
 ### Substituindo comandos locais:
 Há um conjunto de atalhos que podem ajudar com essa tarefa, mas para isso será necessário fazer a instalação
